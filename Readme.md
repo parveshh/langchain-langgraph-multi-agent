@@ -22,5 +22,5 @@ To run the agents, use the following commands:
 you can change the number of ideas in the `business_ideas_agent.py` system prompt, currently it is set to 2.
 
 ```
-python src/lang_agents.py
+python src/business_ideas_agent.py
 ```
